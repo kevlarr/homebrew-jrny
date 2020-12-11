@@ -1,6 +1,6 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
-class Jrny < Formula
+class JrnyAt1 < Formula
   desc "Simple SQL-based schema revision tool for PostgreSQL"
   homepage "https://github.com/kevlarr/jrny"
   url "https://github.com/kevlarr/jrny/releases/download/v1.0.1/jrny-mac.tar.gz"
