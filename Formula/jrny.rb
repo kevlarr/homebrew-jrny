@@ -4,8 +4,8 @@
 class Jrny < Formula
   desc "A lightweight, compiled, zero-dependency PostgreSQL schema revision tool; just add SQL! "
   homepage "https://github.com/kevlarr/jrny"
-  url "https://github.com/kevlarr/jrny/releases/download/v1.1.0/jrny-mac.tar.gz"
-  sha256 "51a5516f28caea47779154e327aec5c45ef2bcf7cd36ca8f411f2d0d682c09ce"
+  url "https://github.com/kevlarr/jrny/releases/download/v1.1.0/jrny-mac-1.1.0.tar.gz"
+  sha256 "c0e975b4523bc92dbd44b71975083dd6f08de3ddc586a393ee80e5edb29a1c83"
   version "1.1.0"
 
   def install
